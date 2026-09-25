@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+sarvamai
+python-multipart
+pwdlib[argon2]
+python-dotenv
+razorpay
